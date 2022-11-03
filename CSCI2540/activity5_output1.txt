@@ -1,0 +1,4 @@
+this is the first input file
+welcome to ecu!
+this is the second input file
+go pirates!

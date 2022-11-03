@@ -1,0 +1,6 @@
+145228,James Park,senior,Engineering 
+166908,Adam Wong,freshman,CS
+265812,Emily Washington,freshman,Math 
+360000,madz,jr,CS
+366010,Mark Baker,junior,Math
+526045,Sandra King,senior,CS
