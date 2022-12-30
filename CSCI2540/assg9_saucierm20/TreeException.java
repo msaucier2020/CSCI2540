@@ -1,4 +1,4 @@
-package activity12;
+package assg9_saucierm20;
 
 @SuppressWarnings("serial")
 public class TreeException extends RuntimeException {
